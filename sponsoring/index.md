@@ -32,6 +32,8 @@ We create opportunities for local developers to learn and exchange ideas across 
 ## Corporate sponsorship
 * Support us with a regular sponsorship to cover ongoing expenses, eg admin costs and learning materials.
 * Sponsor a single event by meeting the cost of pizzas and refreshments or providing a venue.
-In return, we will highlight your support to our members and, for regular contributors, will feature your logo and support prominently on our website and in communications with members (eg meetup invitations). We can also alert members to job openings.
+
+
+In return, we will highlight your support to our members and, for regular contributors, will feature your logo and support prominently on our website and in communications with members (eg Meetup invitations). We can also alert members to job openings.
 
 If you’d like to explore these, or other, options we’d be delighted to discuss them further with you.  Please contact us on [info@codehub.org.uk](mailto:info@codehub.org.uk).
