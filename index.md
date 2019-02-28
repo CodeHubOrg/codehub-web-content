@@ -4,7 +4,7 @@ Description: Homepage
 template: index
 published: true
 ---
-## What is happening at Codehub?
+## What is happening at CodeHub?
 
 Currently, we are running the following events and activities:
 - **Bristol Hack Night** is a casual social coding event where people of any experience can come together to work on projects and learn new skills.  It takes place once a fortnight (Tuesday evenings) at [Framework Co-working space](https://www.frameworkbristol.co.uk/) at 35 King Street.
