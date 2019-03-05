@@ -1,7 +1,7 @@
 ---
 Title: Code of Conduct
 Description: Code of conduct
-template: conduct
+template: index
 ---
 
 Please adhere to the standards set out below. This goes for all spaces managed by CodeHub: In-person meetups like hack nights, study groups and workshops, as well as online spaces like our Slack group or the Meetup pages.
