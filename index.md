@@ -13,7 +13,7 @@ published: true
 <p>We are largely based within a 25 mile radius of Bristol/Bath, but anyone welcome. CodeHub is also a chapter of <a href="http://www.opentechschool.org/">OpenTechSchool</a>.</p>
 </div>
 
-## What is happening at Codehub?
+## What is happening at CodeHub?
 
 We run events (Hack nights, Dojos, workshops), organise mentorships and facilitate study groups. Check out our [activities](/activities) page.
 
