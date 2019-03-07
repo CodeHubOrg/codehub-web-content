@@ -5,6 +5,14 @@ template: index
 published: true
 ---
 
+## Code of Conduct
+
+<div class="intro inner">
+<p>We are committed to providing a friendly, safe and welcoming environment for all, regardless of level of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other similar characteristic. Diversity is something we especially value and encourage.
+</p>
+</div>
+
+
 Please adhere to the standards set out below. This goes for all spaces managed by CodeHub: In-person meetups like hack nights, study groups and workshops, as well as online spaces like our Slack group or the Meetup pages.
 
 ## We ask you to

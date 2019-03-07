@@ -4,20 +4,22 @@ Description: Homepage
 template: index
 published: true
 ---
-## What is happening at CodeHub?
 
-Currently, we are running the following events and activities:
-- **Bristol Hack Night** is a casual social coding event where people of any experience can come together to work on projects and learn new skills.  It takes place once a fortnight (Tuesday evenings) at [Framework Co-working space](https://www.frameworkbristol.co.uk/) at 35 King Street.
-- **WebDev101** is a self-directed study group for everyone interested in improving their knowledge of web development. It meets once a fortnight (Tuesday mornings) at [Dom's Coffee House](https://domscoffeehouse.co.uk/) near the Hippodrome.
-- **Python Dojo** is a safe place to practise and develop coding skills, and perhaps learn something new too.  It is held roughly every month (at Framework).
-- **Talks** are organised from time to time, based on feedback from members about topics of interest.
-- **Mentoring programme:** we organise mentoring programmes which start approximately twice a year for those interested in joining - either as mentors or as mentees.
+## What is CodeHub?
+
+<div class="intro inner">
+  <p>CodeHub is a place to code, share, and learn from one another.  Whether you are an experienced developer or just learning to code, interested in design or programming, you are more than welcome.</p>
+
+<p>We are largely based within a 25 mile radius of Bristol/Bath, but anyone welcome. CodeHub is also a chapter of <a href="http://www.opentechschool.org/">OpenTechSchool</a>.</p>
+</div>
+
+## What is happening at Codehub?
+
+We run events (Hack nights, Dojos, workshops), organise mentorships and facilitate study groups. Check out our [activities](/activities) page.
 
 <div class="img-wrapper">
   <img class="resp" src="%base_url%/assets/doms.jpg" />
 </div>
-
-All events are advertised and can be joined via our [Meetup Page](https://meetup.com/codehub-bristol). Please check out our [Code of Conduct](/code-conduct/).
 
 We also have a [Slack group](http://slack.codehub.org.uk) where we exchange interesting links and news, and where you can find help when you are stuck with a programming problem.
 
