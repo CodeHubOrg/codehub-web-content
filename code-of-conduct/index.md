@@ -17,10 +17,10 @@ Please adhere to the standards set out below. This goes for all spaces managed b
 
 ## We ask you to
 
-* behave respectfully towards other people
-* be considerate of people’s time and attention
-* contribute positively and constructively to discussions
-* listen and take into account others' concerns and opinions
+* Behave respectfully towards other people
+* Be considerate of people’s time and attention
+* Contribute positively and constructively to discussions
+* Listen to and take into account others' concerns and opinions
 
 ## Dealing with unwelcome behaviour
 
@@ -28,4 +28,4 @@ We will not tolerate any form of harassment. This includes, but is not limited t
 
 When we learn about a member being made to feel uncomfortable or unwelcome, we will seek to clarify the situation and take appropriate action. This can mean making people aware of their language and/or behaviour and asking them to change it, but can also mean asking people to leave.
 
-If you feel somebody behaved inappropriately, please let one of the current organisers know. At the moment, that's Audrey, Mark or Katja. You can also write an email to [hello@codehub.org.uk](mailto:hello@codehub.org.uk). This will go to all three of us.
+If you feel somebody has behaved inappropriately, please let one of the current organisers know - either in person or by email to [info@codehub.org.uk](mailto:info@codehub.org.uk). 
