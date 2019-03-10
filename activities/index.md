@@ -19,4 +19,4 @@ All events are advertised and can be joined via our [Meetup Page](https://meetup
 
 ## Have an idea?
 
-If you would like to start a study group, or would like to find collaborators for a project, let us know. Or just come to a Hack Night!
+If you would like to start a study group, or would like to find collaborators for a project, let us know on info@codehub.org.uk. Or just come to a Hack Night!
