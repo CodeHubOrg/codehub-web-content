@@ -8,7 +8,7 @@ published: true
 ## What is CodeHub?
 
 <div class="intro inner">
-  <p>CodeHub is a place to code, share, and learn from one another.  Whether you are an experienced developer or just learning to code, interested in design or programming, you are more than welcome.</p>
+  <p>CodeHub aims to support anyone with an interest in programming and web development in advancing their skills and knowledge.  It is a place to code, share, and learn from one another.  Whether you are an experienced developer or just learning to code, interested in design or programming, you are more than welcome.</p>
 
 <p>We are largely based within a 25 mile radius of Bristol/Bath, but anyone is welcome. CodeHub is also a chapter of <a href="http://www.opentechschool.org/">OpenTechSchool</a>.</p>
 </div>
