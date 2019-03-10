@@ -10,7 +10,7 @@ published: true
 <div class="intro inner">
   <p>CodeHub aims to support anyone with an interest in programming and web development in advancing their skills and knowledge.  It is a place to code, share, and learn from one another.  Whether you are an experienced developer or just learning to code, interested in design or programming, you are more than welcome.</p>
 
-<p>CodeHub is also the Bristol chapter of <a href="http://www.opentechschool.org/">OpenTechSchool</a> - an great organisation that champions hands-on, peer-driven learning.</p>
+<p>CodeHub is also the Bristol chapter of <a href="http://www.opentechschool.org/">OpenTechSchool</a> - a great organisation that champions hands-on, peer-driven learning.</p>
 </div>
 
 ## What is happening at CodeHub?
