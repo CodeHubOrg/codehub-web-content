@@ -30,7 +30,7 @@ We rely on the support of sponsors - without them we would not be able to offer 
 <div class="flex-sponsors">
   <ul>
     <li>
-      <a href="https://developme.training/"><img src="%base_url%/assets/developme.png" alt="Logo Develop Me" width="120" height="22"></a>
+      <a href="https://developme.training/"><img src="%base_url%/assets/developme.png" alt="Logo Develop Me" width="120" height="22" style="margin-bottom: 5px"></a>
     <p>Regular Sponsor</p>
     </li>
     <li>
