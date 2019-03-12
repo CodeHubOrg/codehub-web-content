@@ -19,6 +19,7 @@ We run events (Hack Nights, Dojos, workshops), organise mentorships and facilita
 
 <div class="img-wrapper">
   <img class="resp" src="%base_url%/assets/doms.jpg" />
+  <div class="caption" style="text-align: left; max-width: 600px; margin: 0 auto; font-size: 18px; color: #888">Codehub at Dom's</div>
 </div>
 
 We also have a [Slack group](http://slack.codehub.org.uk) where we exchange interesting links and news, and where you can find help when you are stuck with a programming problem.
