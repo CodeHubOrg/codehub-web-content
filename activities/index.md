@@ -13,7 +13,7 @@ Currently, we are running the following events and activities:
 - **Talks** are organised from time to time, based on feedback from members about topics of interest.
 - **Mentoring programme:** we organise mentoring programmes which start approximately twice a year for those interested in joining - either as mentors or as mentees.
 
-You can find more information on what we do on [our wiki](https://wiki.codehub.org.uk).
+You can find more information on what we do on [our wiki](https://wiki.codehub.org.uk/activities).
 
 All events are advertised and can be joined via our [Meetup Page](https://meetup.com/codehub-bristol). Please check out our [Code of Conduct](/code-conduct/).
 
