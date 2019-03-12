@@ -30,7 +30,7 @@ We create opportunities for local developers to learn and exchange ideas across 
 * Find out about emerging technologies or opportunities
 
 ## Corporate sponsorship
-* Support us with a regular sponsorship to cover ongoing expenses, eg admin costs and learning materials.
+* Support us with a regular sponsorship to cover ongoing expenses, e.g. admin costs and learning materials.
 * Sponsor a single event by meeting the cost of pizzas and refreshments or providing a venue.
 
 
