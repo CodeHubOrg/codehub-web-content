@@ -19,7 +19,7 @@ We run events (Hack Nights, Dojos, workshops), organise mentorships and facilita
 
 <div class="img-wrapper">
   <img class="resp" src="%base_url%/assets/doms.jpg" />
-  <div class="caption" style="text-align: left; max-width: 600px; margin: 0 auto; font-size: 18px; color: #888">Codehub at Dom's</div>
+  <div class="caption">Codehub at Dom's</div>
 </div>
 
 We also have a [Slack group](http://slack.codehub.org.uk) where we exchange interesting links and news, and where you can find help when you are stuck with a programming problem.
@@ -34,7 +34,7 @@ We rely on the support of sponsors - without them we would not be able to offer 
     <p>Regular Sponsor</p>
     </li>
     <li>
-      <a href="https://www.frameworkbristol.co.uk/"><img src="%base_url%/assets/framework.png" alt="Logo Framework" width="175" height="15"></a>
+      <a href="https://www.frameworkbristol.co.uk/"><img src="%base_url%/assets/framework.jpg" alt="Logo Framework" width="175" height="43"></a>
       <p>Venue</p>
     </li>
   </ul>
