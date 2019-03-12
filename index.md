@@ -33,9 +33,6 @@ We rely on the support of sponsors - without them we would not be able to offer 
       <a href="https://developme.training/"><img src="%base_url%/assets/developme.png" alt="Logo Develop Me" width="120" height="22"></a>
     <p>Regular Sponsor</p>
     </li>
-    <li><a href="https://www.digitalocean.com/"><img src="%base_url%/assets/digitalocean.jpg" alt="Logo Digital Ocean" width="80" height="60"></a>
-    <p>Hosting</p>
-    </li>
     <li>
       <a href="https://www.frameworkbristol.co.uk/"><img src="%base_url%/assets/framework.png" alt="Logo Framework" width="175" height="15"></a>
       <p>Venue</p>
