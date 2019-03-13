@@ -42,4 +42,4 @@ We rely on the support of sponsors - without them we would not be able to offer 
 
 ## Getting in touch
 
-Email us on [info@codehub.org.uk](mailto:info@codehub.org.uk), or tweet to [@CodeHubBs](https://twitter.com/CodehubBs).
+Email us on [info@codehub.org.uk](mailto:info@codehub.org.uk), or tweet to [@CodeHubBs](https://twitter.com/CodehubBs). Join our [Meetup group](https://www.meetup.com/codehub-bristol/).
