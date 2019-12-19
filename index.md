@@ -28,17 +28,19 @@ We rely on the support of sponsors - without them we would not be able to offer 
 
 <p>Current sponsors:</p>
 <div class="flex-sponsors">
-  <ul>
-    <li>
-      <a href="https://developme.training/"><img src="%base_url%/assets/developme.png" alt="Logo Develop Me" width="120" height="22" style="margin-bottom: 5px"></a>
+  <ul><li>
+      <a href="https://developme.training/"><img src="https://www.codehub.org.uk/assets/developme.png" alt="Logo Develop Me" width="120" height="22" style="margin-bottom: 5px"></a>
     <p>Regular Sponsor</p>
     </li>
     <li>
-      <a href="https://www.frameworkbristol.co.uk/"><img src="%base_url%/assets/framework.jpg" alt="Logo Framework" width="175" height="43"></a>
+<a href="https://www.digitalocean.com/"><img src="https://www.codehub.org.uk/assets/digitalocean.jpg" alt="Logo Digital Ocean" width="80" height="60"></a>
+    <p>Hosting</p>
+    </li>
+    <li>
+      <a href="https://www.frameworkbristol.co.uk/"><img src="https://www.codehub.org.uk/assets/framework.jpg" alt="Logo Framework" width="175" height="43"></a>
       <p>Venue</p>
     </li>
-  </ul>
-</div>
+  </ul></div>
 
 ## Getting in touch
 
