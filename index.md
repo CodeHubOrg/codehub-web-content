@@ -24,7 +24,7 @@ We run events (Hack Nights, Dojos, workshops), organise mentorships and facilita
 
 We also have a [Slack group](http://slack.codehub.org.uk) where we exchange interesting links and news, and where you can find help when you are stuck with a programming problem.
 
-We rely on the support of sponsors - without them we would not be able to offer learning and support. We are extremely grateful for their investment - it helps to to create a thriving, diverse and welcoming tech community in Bristol. Please see [our sponsoring page](/sponsoring/) for more information.
+We rely on the support of sponsors - without them we would not be able to offer learning and support. We are extremely grateful for their investment - it helps to create a thriving, diverse and welcoming tech community in Bristol. Please see [our sponsoring page](/sponsoring/) for more information.
 
 <p>Current sponsors:</p>
 <div class="flex-sponsors">
