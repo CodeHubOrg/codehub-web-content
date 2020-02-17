@@ -28,13 +28,14 @@ We rely on the support of sponsors - without them we would not be able to offer 
 
 <p>Current sponsors:</p>
 <div class="flex-sponsors">
-  <ul><li>
-      <a href="https://developme.training/"><img src="https://www.codehub.org.uk/assets/developme.png" alt="Logo Develop Me" width="120" height="22" style="margin-bottom: 5px"></a>
-    <p>Regular Sponsor</p>
+  <ul>
+    <li>
+      <a href="https://candidegardening.com/GB/"><img src="https://www.codehub.org.uk/assets/header-candide-logo.png" alt="Logo Candide" width="175" height="43"></a>
+      <p>Hack Nights</p>
     </li>
     <li>
-      <a href="https://candidegardening.com/GB/"><img src="/assets/header-candide-logo.png" alt="Logo Candide" width="175" height="43"></a>
-      <p>Hack Nights</p>
+      <a href="https://developme.training/"><img src="https://www.codehub.org.uk/assets/developme.png" alt="Logo Develop Me" width="120" height="22" style="margin-bottom: 5px"></a>
+    <p>Regular Sponsor</p>
     </li>
     <li>
 <a href="https://www.digitalocean.com/"><img src="https://www.codehub.org.uk/assets/digitalocean.jpg" alt="Logo Digital Ocean" width="80" height="60"></a>
