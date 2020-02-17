@@ -34,7 +34,7 @@ We rely on the support of sponsors - without them we would not be able to offer 
       <p>Hack Nights</p>
     </li>
     <li>
-      <a href="https://developme.training/"><img src="https://www.codehub.org.uk/assets/developme.png" alt="Logo Develop Me" width="120" height="22" style="margin-bottom: 5px"></a>
+      <a href="https://developme.training/"><img src="https://beta.codehub.org.uk/assets/developme.png" alt="Logo Develop Me" width="120" height="22" style="margin-bottom: 5px"></a>
     <p>Regular Sponsor</p>
     </li>
     <li>
