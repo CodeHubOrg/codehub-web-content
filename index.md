@@ -31,7 +31,7 @@ We rely on the support of sponsors - without them we would not be able to offer 
   <ul>
     <li>
       <a href="https://candidegardening.com/GB/"><img src="https://beta.codehub.org.uk/assets/header-candide-logo.png" alt="Logo Candide" width="175" height="43"></a>
-      <p>Hack Nights</p>
+      <p>Regular Sponsor</p>
     </li>
     <li>
       <a href="https://developme.training/"><img src="https://www.codehub.org.uk/assets/developme.png" alt="Logo Develop Me" width="120" height="22" style="margin-bottom: 5px"></a>
