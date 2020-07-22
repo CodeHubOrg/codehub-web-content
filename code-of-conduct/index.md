@@ -32,13 +32,14 @@ If you feel somebody has behaved inappropriately, please let one of the current 
 
 ## No recruitment
 
-We want job seekers to find employment, but there is a time and place for recruitment and this does not include our events or activities: our members should not be concerned that anything they share within a CodeHub environment will be used by recruiters.  
+We want job seekers to find employment and recognise that recruiters have an important role to play.  However, we our members should not experience unsolicited approaches from recruiters, nor should they be concerned that anything they share within a CodeHub environment will be used by recruiters.  
 
-Recruiters should not:
+We ask recruiters:
 
-* Write direct messages to our members
-* Post on jobs channels about opportunities
-* Mine what our members post for information on potential job openings
-* Use information gleaned from events to pursue possible job openings or candidates
+* Not to write direct messages to our members unless explicitly invited to do so
+* Ensure that any postings about job opportunities are clearly marked as from recruiters
+* Not to mine what our members post for information on potential job openings
+* To be clearly identified as a recruiter (eg T-shirt, badge) when attending or sponsoring a CodeHub event
+* Not to use information gleaned from events to pursue possible job openings or candidates, unless explicitly invited to do so
 
-Any recruiter who flouts this Code of Conduct will be banned from further CodeHub activity
+Any recruiter who does not act in accordance with this Code of Conduct will be asked to leave CodeHub
