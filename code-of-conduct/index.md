@@ -37,9 +37,8 @@ We want job seekers to find employment and recognise that recruiters have an imp
 We ask recruiters:
 
 * Not to write direct messages to our members unless explicitly invited to do so
-* Ensure that any postings about job opportunities are clearly marked as from recruiters
 * Not to mine what our members post for information on potential job openings
-* To be clearly identified as a recruiter (eg T-shirt, badge) when attending or sponsoring a CodeHub event
+* No recruitment activity at events, unless agreed in advance (eg through sponsorship)
 * Not to use information gleaned from events to pursue possible job openings or candidates, unless explicitly invited to do so
 
 Any recruiter who does not act in accordance with this Code of Conduct will be asked to leave CodeHub
