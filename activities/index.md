@@ -6,10 +6,10 @@ published: true
 ---
 ## Events and Activties
 
-Currently, we are running the following events and activities:
-- **Bristol Hack Night** is a casual social coding event where people of any experience can come together to work on projects and learn new skills.  It takes place once a fortnight (Tuesday evenings) at [Framework Co-working space](https://www.frameworkbristol.co.uk/) at 35 King Street.
-- **WebDev101** is a self-directed study group for everyone interested in improving their knowledge of web development. It meets once a fortnight at Desklodge House as part of the Workshop Wednesdays run by [Women's Tech Hub](https://www.wthub.org/).
-- **Python Dojo** is a safe place to practise and develop coding skills, and perhaps learn something new too. It happens once every 4 weeks, at Desklodge House, like WebDev101 part of Workshop Wednesdays.
+Currently, we are running the following events and activities - at the moment all online, but we hope to move to in-person meetings again soon:
+- **Bristol Hack Night** is a casual social coding event where people of any experience can come together to work on projects and learn new skills.  It takes place once a fortnight (Tuesday evenings) <!--at [Framework Co-working space](https://www.frameworkbristol.co.uk/) at 35 King Street -->.
+- **WebDev101** is a self-directed study group for everyone interested in improving their knowledge of web development. It meets once a fortnight as part of the Workshop Wednesdays run by [Women's Tech Hub](https://www.wthub.org/).
+- **Python Dojo** is a safe place to practise and develop coding skills, and perhaps learn something new too. It happens once every 4 weeks.
 - **Talks** are organised from time to time, based on feedback from members about topics of interest.
 - **Mentoring programme:** we organise mentoring programmes which start approximately twice a year for those interested in joining - either as mentors or as mentees.
 

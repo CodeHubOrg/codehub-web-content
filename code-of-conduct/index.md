@@ -29,16 +29,3 @@ We will not tolerate any form of harassment. This includes, but is not limited t
 When we learn about a member being made to feel uncomfortable or unwelcome, we will seek to clarify the situation and take appropriate action. This can mean making people aware of their language and/or behaviour and asking them to change it, but can also mean asking people to leave.
 
 If you feel somebody has behaved inappropriately, please let one of the current organisers know - either in person or by email to [info@codehub.org.uk](mailto:info@codehub.org.uk). 
-
-## No recruitment
-
-We want job seekers to find employment and recognise that recruiters have an important role to play.  However, we our members should not experience unsolicited approaches from recruiters, nor should they be concerned that anything they share within a CodeHub environment will be used by recruiters.  
-
-We ask recruiters:
-
-* Not to write direct messages to our members unless explicitly invited to do so
-* Not to mine what our members post for information on potential job openings
-* No recruitment activity at events, unless agreed in advance (eg through sponsorship)
-* Not to use information gleaned from events to pursue possible job openings or candidates, unless explicitly invited to do so
-
-Any recruiter who does not act in accordance with this Code of Conduct will be asked to leave CodeHub
