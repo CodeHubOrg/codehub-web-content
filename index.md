@@ -34,7 +34,7 @@ We rely on the support of sponsors - without them we would not be able to offer 
       <p>Regular Sponsor</p>
     </li>
     <li>
-      <a href="https://io-academy.uk/"><img src="https://beta.codehub.org.uk/assets/assets/iO_Logo_small.jpg" alt="Logo iO Academy" width="175" height="42"></a>
+      <a href="https://io-academy.uk/"><img src="https://beta.codehub.org.uk/assets/iO_Logo_small.jpg" alt="Logo iO Academy" width="175" height="42"></a>
       <p>Regular Sponsor</p>
     </li>
     <!-- <li>
