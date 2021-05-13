@@ -34,6 +34,10 @@ We rely on the support of sponsors - without them we would not be able to offer 
       <p>Regular Sponsor</p>
     </li>
     <li>
+      <a href="https://io-academy.uk/"><img src="https://beta.codehub.org.uk/assets/assets/iO_Logo_small.jpg" alt="Logo iO Academy" width="175" height="42"></a>
+      <p>Regular Sponsor</p>
+    </li>
+    <!-- <li>
       <a href="https://developme.training/"><img src="https://www.codehub.org.uk/assets/developme.png" alt="Logo Develop Me" width="120" height="22" style="margin-bottom: 5px"></a>
     <p>Regular Sponsor</p>
     </li>
@@ -44,7 +48,8 @@ We rely on the support of sponsors - without them we would not be able to offer 
     <li>
       <a href="https://www.frameworkbristol.co.uk/"><img src="https://www.codehub.org.uk/assets/framework.jpg" alt="Logo Framework" width="175" height="43"></a>
       <p>Venue</p>
-    </li>
+    </li> -->
+
   </ul></div>
 
 ## Getting in touch
