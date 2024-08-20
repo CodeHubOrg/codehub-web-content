@@ -13,7 +13,7 @@ published: true
 </div>
 
 
-Please adhere to the standards set out below. This goes for all spaces managed by CodeHub: In-person meetups like hack nights, study groups and workshops, as well as online spaces like our Slack group or the Meetup pages.
+Please adhere to the standards set out below. This goes for all spaces managed by CodeHub: In-person meetups like hack nights, study groups and workshops, as well as online spaces like our Discord server or the Meetup pages.
 
 ## We ask you to
 
